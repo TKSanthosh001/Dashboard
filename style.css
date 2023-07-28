@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+}
+body::-webkit-scrollbar { 
+    display: none; 
+}
+.custom-container {
+    margin-left: 10px; 
+  }
+  
